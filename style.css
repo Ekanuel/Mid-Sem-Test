@@ -11,7 +11,7 @@
     min-height: 400px;
     background-color: lightgray;
     padding-left: 2%;
-    line-height: 400px;
+    line-height: auto;
     margin-bottom: 10px;
 
 }
