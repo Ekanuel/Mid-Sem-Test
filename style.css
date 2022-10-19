@@ -5,3 +5,13 @@
     font-family: Arial;
 }
 
+
+.body-div{
+    width: 100%;
+    min-height: 400px;
+    background-color: lightgray;
+    padding-left: 2%;
+    line-height: 400px;
+    margin-bottom: 10px;
+
+}
